@@ -1,0 +1,10 @@
+{
+  "client_id": "https://gist.githubusercontent.com/EjsLee/d28b95c2639e8386b796a35a83ea9ba8/raw/lovable-spike-client.json",
+  "client_name": "openclaw-archon-auth-spike",
+  "client_uri": "https://swing-desk-insights.lovable.app",
+  "redirect_uris": ["http://127.0.0.1:8912/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "offline projects:read workspaces:read"
+}
